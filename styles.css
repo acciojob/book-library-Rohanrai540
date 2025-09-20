@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#f8f8f8;
+	text-align:center;
+}
+.book-library{
+	background-color:#ffffff;
+	
+}
+.book{
+	
+}
+p{
+	margin:20px
+	width:80%;
+	height:20px;
+	font-size:15px;
+	background-color:green;
+	color:white;
+}
+.discription{
+	display:flex-start;
+}
